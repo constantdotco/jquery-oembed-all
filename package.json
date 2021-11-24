@@ -1,0 +1,25 @@
+{
+    "name": "jquery-oembed-all",
+    "version": "0.10.0",
+    "description": "from https://github.com/nfl/jquery-oembed-all",
+    "main": "jquery.simplePagination.js",
+    "directories": {
+      "test": "tests"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/constantdotco/jquery-oembed-all.git"
+    },
+    "keywords": [
+      "oembed", "jquery", "jquery-oembed-all"
+    ],
+    "author": "National Football League <engineers@nfl.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/nfl/jquery-oembed-all/issues"
+    },
+    "homepage": "https://github.com/nfl/jquery-oembed-all"
+  }
