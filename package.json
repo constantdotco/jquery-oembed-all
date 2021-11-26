@@ -1,8 +1,8 @@
 {
     "name": "jquery-oembed-all",
-    "version": "0.10.0",
+    "version": "0.10.1",
     "description": "from https://github.com/nfl/jquery-oembed-all",
-    "main": "jquery.simplePagination.js",
+    "main": "jquery.oembed.js",
     "directories": {
       "test": "tests"
     },
